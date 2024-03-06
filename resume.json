@@ -1,0 +1,27 @@
+{
+    "name": "Nolen Quinton Robinson",
+    "email": "nolenariton@gmail.com",
+    "phone": "334-379-2211",
+    "education": [
+      {
+        "degree": "BSIT - Information Technology",
+        "university": "University of North Alabama",
+        "year": "2025"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Back of House Cook",
+        "company": "Robert Trent Jones The Shoals",
+        "duration": "2023",
+        "description": "Facilitated the preparation of food for the restaurant and golf course."
+      }
+      
+    ],
+    "skills": [
+      "Web Development",
+      "Python",
+      "C++",
+      "Tutoring"  
+    ]
+  }
